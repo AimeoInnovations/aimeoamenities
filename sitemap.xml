@@ -13,27 +13,22 @@
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>http://aimeoamenities.com/index.html</loc>
+  <loc>http://aimeoamenities.com/about</loc>
   <lastmod>2024-07-07T15:52:46+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://aimeoamenities.com/about.html</loc>
+  <loc>http://aimeoamenities.com/products</loc>
   <lastmod>2024-07-07T15:52:46+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://aimeoamenities.com/products.html</loc>
+  <loc>http://aimeoamenities.com/partner-with-us</loc>
   <lastmod>2024-07-07T15:52:46+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>http://aimeoamenities.com/partner-with-us.html</loc>
-  <lastmod>2024-07-07T15:52:46+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>http://aimeoamenities.com/contact.html</loc>
+  <loc>http://aimeoamenities.com/contact</loc>
   <lastmod>2024-07-07T15:52:46+00:00</lastmod>
   <priority>0.80</priority>
 </url>
